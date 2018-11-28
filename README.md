@@ -16,7 +16,7 @@
 $ python main.py <ссылка>
 http://bit.ly/...
 
-$ python mian.py <bit.ly/...>
+$ python main.py <bit.ly/...>
 переходов: 123
 ```
 
