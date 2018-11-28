@@ -8,15 +8,15 @@
   
   * python3
   * установка зависимостей
-  ```pip instal -r requirements.txt```
+  ```pip install -r requirements.txt```
   * токен учетной записи на bit.ly
   
   Пример:
 ```bash
-$ python bitly.py <ссылка>
+$ python main.py <ссылка>
 http://bit.ly/...
 
-$ python bitly.py <bit.ly/...>
+$ python mian.py <bit.ly/...>
 переходов: 123
 ```
 
