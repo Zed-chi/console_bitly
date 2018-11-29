@@ -9,7 +9,9 @@
   * python3
   * установка зависимостей
   ```pip install -r requirements.txt```
-  * токен учетной записи на bit.ly
+  * Зарегистрироваться на bit.ly и получить свой токен (edit profile -> Generic Access Token)
+  * положить токен в файл .env (token=...) в корень папки
+  
   
   Пример:
 ```bash
